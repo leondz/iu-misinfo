@@ -2,6 +2,18 @@ Great thanks to Franziska Roesner @ UW for her course CSE599B: Technology-enable
 
 # Info
 
+This is a computer science course, expecting some knowledge of machine learning
+
+## What we will learn
+* Describing and categorising misinformation
+* How technology is misused
+* Mitigating misinformation
+* Detecting misinformation on the web
+* Monitoring user reactions
+* Detecting lies through style
+* Checking factual claims
+* How to identify suspicious accounts and networks
+
 ## Schedule
 * Monday: 15.45-18.50, room 104
 * Tuesday: 15.45-18.50, room 312
@@ -17,7 +29,7 @@ Three assignments, worth 30%, 30%, 40% of the final grade. The final assignment 
 
 ## Day 1: What is this?
 
-* Intro slides
+* [Intro slides](1+intro.pdf)
 * [War of the Worlds broadcast](https://www.youtube.com/watch?v=Xs0K4ApWl4g&feature=youtu.be&t=11m01s) ; [NYT manipulation quiz](https://www.nytimes.com/interactive/2018/09/04/technology/facebook-influence-campaigns-quiz.html)
 * Part 1 : introduction and examples [link](1-cse599b-18au.pdf)
 * Part 2 : describing the misinformation space [link](2-cse599b-18au.pdf)
