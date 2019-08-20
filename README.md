@@ -23,7 +23,7 @@ This is a computer science course, expecting some knowledge of machine learning
 
 ## Assessment
 
-Three assignments, worth 30%, 30%, 40% of the final grade. The final assignment should be written as a research paper, and may be submitted to an academic venue.
+Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignment should be written as a research paper, and may be submitted to an academic venue.
 
 # Week 1
 
@@ -47,6 +47,6 @@ Three assignments, worth 30%, 30%, 40% of the final grade. The final assignment 
 ## Day 3: False video
 
 * Present exercise 2
-*
+* 
 
 
