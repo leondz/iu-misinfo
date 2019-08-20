@@ -20,7 +20,7 @@ Three assignments, worth 30%, 30%, 40% of the final grade. The final assignment 
 * Intro slides
 * Part 1 : introduction and examples
 * Part 2 : describing the misinformation space; 
-* Exercise 1 : Personal experience study
+* [Exercise 1](exercise 1.pdf) : Personal experience study 
 
 
 ## Day 2
@@ -29,7 +29,7 @@ Three assignments, worth 30%, 30%, 40% of the final grade. The final assignment 
 * Research case studies
 * Measuring the problem, including the [AMI model](https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c) (pages 4-19)
 * Backfire effect and confirmation bias
-* Exercise 2: Case study
+* [Exercise 2](exercise 2.pdf) Exercise 2: Case study
 
 ## Day 3
 
