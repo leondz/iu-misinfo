@@ -1,37 +1,38 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/leondz/iu-misinfo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Great thanks to Franziska Roesner @ UW for her course CSE599B: Technology-enabled misinformation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Info
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Schedule
+Monday: 15.45-18.50, room 104
+Tuesday: 15.45-18.50, room 312
+Wednesday: 15.45-18.50, room 306
+Thursday: 17.20-20-25, room 316
+Friday: 12.10-15.40 (with half-hour break), room 103
 
-```markdown
-Syntax highlighted code block
+## Assessment
 
-# Header 1
-## Header 2
-### Header 3
+Three assignments, worth 30%, 30%, 40% of the final grade. The final assignment should be written as a research paper, and may be submitted to an academic venue.
 
-- Bulleted
-- List
+# Week 1
 
-1. Numbered
-2. List
+## Day 1
 
-**Bold** and _Italic_ and `Code` text
+. Intro slides
+. Part 1 : introduction and examples
+. Part 2 : describing the misinformation space; 
+. Exercise 1 : Personal experience study
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Day 2
 
-### Jekyll Themes
+. Present exercise 1
+. Research case studies
+. Measuring the problem, including the [AMI model](https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c) (pages 4-19)
+. Backfire effect and confirmation bias
+. Exercise 2: Case study
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leondz/iu-misinfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Day 3
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
