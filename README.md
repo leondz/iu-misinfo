@@ -15,21 +15,26 @@ Three assignments, worth 30%, 30%, 40% of the final grade. The final assignment 
 
 # Week 1
 
-## Day 1
+## Day 1: What is this?
 
 * Intro slides
-* Part 1 : introduction and examples
-* Part 2 : describing the misinformation space; 
+* [War of the Worlds broadcast](https://www.youtube.com/watch?v=Xs0K4ApWl4g&feature=youtu.be&t=11m01s) ; [NYT manipulation quiz](https://www.nytimes.com/interactive/2018/09/04/technology/facebook-influence-campaigns-quiz.html)
+* Part 1 : introduction and examples [link](1-cse599b-18au.pdf)
+* Part 2 : describing the misinformation space [link](2-cse599b-18au.pdf)
 * [Exercise 1](exercise+1.pdf) : Personal experience study 
 
 
-## Day 2
+## Day 2: Measuring the problem
 
 * Present exercise 1
-* Research case studies
+* Research case studies. [Ecosystem or Echo-System? Exploring Content Sharing across Alternative Media Domains](https://faculty.washington.edu/kstarbi/Starbird-et-al-ICWSM-2018-Echosystem-final.pdf) ; [Acting the Part: Examining Information Operations Within #BlackLivesMatter Discourse](https://faculty.washington.edu/kstarbi/BLM-IRA-Camera-Ready.pdf) ; ["Who Shared It?": How Americans Decide What News to Trust on Social Media](http://mediainsight.org/PDFs/Trust%20Social%20Media%20Experiments%202017/MediaInsight_Social%20Media%20Final.pdf) ; [4chan](http://www.4chan.org)
 * Measuring the problem, including the [AMI model](https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c) (pages 4-19)
-* Backfire effect and confirmation bias
-* [Exercise 2](exercise+2.pdf) Exercise 2: Case study
+* Backfire effect and confirmation bias. Slides [link](4-cse599b-18au.pdf) [link](5-cse599b-18au.pdf)
+* [Exercise 2](exercise+2.pdf) : Case study
 
-## Day 3
+## Day 3: False video
+
+* Present exercise 2
+*
+
 
