@@ -53,6 +53,6 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 * [Early deepfakes](http://niessnerlab.org/projects/thies2016face.html)
 * [Recent deepfakes](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html)
 * Reading: [Deepfakes and Synthetic Media: What should we fear? What can we do?](https://blog.witness.org/2018/07/deepfakes/)
-* [Exercise 3](exercise+3.pdf): fake image
+* [Exercise 3](exercise%203.pdf): fake image
 
 
