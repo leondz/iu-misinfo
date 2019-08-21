@@ -1,3 +1,5 @@
+# Automatic Fact Verification and Fake News Detection
+
 Great thanks to Franziska Roesner @ UW for her course CSE599B: Technology-enabled misinformation
 
 # Info
