@@ -55,4 +55,9 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 * Reading: [Deepfakes and Synthetic Media: What should we fear? What can we do?](https://blog.witness.org/2018/07/deepfakes/)
 * [Exercise 3](exercise%203.pdf): fake image
 
-
+## Day 4: Micro-targeting
+* Present exercise 3
+* Micro targeting [slides](6-cse599b-18au.pdf)
+* Panopticon: give yourself a [privacy check](https://panopticlick.eff.org)
+* Article: [Attacks on privacy on Facebook)(https://arxiv.org/pdf/1803.10099.pdf)
+* [Exercise 4](exercise+4.pdf): compare how you can be tracked
