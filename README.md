@@ -60,4 +60,5 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 * Micro targeting [slides](6-cse599b-18au.pdf)
 * Panopticon: give yourself a [privacy check](https://panopticlick.eff.org)
 * Article: [Attacks on privacy on Facebook](https://arxiv.org/pdf/1803.10099.pdf)
+* [Web Tracking FAQ](http://trackingexcavator.cs.washington.edu/faq.html)
 * [Exercise 4](exercise%204.pdf): compare how you can be tracked
