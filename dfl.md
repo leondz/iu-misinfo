@@ -55,6 +55,7 @@ Next you'll appropriately get a warning stating that if you reset your runtime, 
 
 Once you do that, you'' quickly see some text appear. It's basically installing everything you need to run DeepFaceLab. Just sit back and wait a few minutes until it's complete. Your output should looks something similar to this:
 
+```
 Code:
 Cloning into 'DeepFaceLab'...
 remote: Enumerating objects: 38, done.
@@ -156,7 +157,8 @@ Installing collected packages: scikit-image
  Found existing installation: scikit-image 0.14.2
    Uninstalling scikit-image-0.14.2:
      Successfully uninstalled scikit-image-0.14.2
-Successfully installed scikit-image-0.15.0`
+Successfully installed scikit-image-0.15.0
+```
 
 The whole process should only take around 2 minutes.
 
@@ -181,10 +183,12 @@ Again, be sure to select the same Google account you're using on colab, and just
 It'll take a few minutes to import from Google Drive depending on how large your workspace folder is. Once completed you'll get an output similar to this:
 
 
-`Code:
+```
+Code:
 Mounted at /content/drive
 /content
-Done!`
+Done!
+```
 
 Success! You're now ready to begin extracting, sorting, training or converting.
 
@@ -199,7 +203,8 @@ Next, go back up to the "3. Train model" section. Here we can select the type of
 After selecting, click on the play button again. You'll see some code once again as it prepares to train.
 
 
-`Code:
+```
+Code:
 Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
 Time to backup: 11 hours
 /content
@@ -214,13 +219,16 @@ Instructions for updating:
 Colocations handled automatically by placer.
 WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
 Instructions for updating:
-Use tf.cast instead.`
+Use tf.cast instead.
+```
+
 
 As usual, if you wish to change your model training settings, click unter in the input field. Keep in mind there is a slight delay with this field, so sometimes you may have to push it a few times, or even earlier than the prompt.
 
 The full output once it begins training looks like the usual one on Windows.
 
-`Code:
+```
+Code:
 Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
 Time to backup: 11 hours
 /content
@@ -265,7 +273,9 @@ Loading: 100% 101635/101635 [01:49<00:00, 928.34it/s]
 == |== [0 : Tesla T4]
 =========================
 Starting. Press "Enter" to stop training and save model.
-[03:06:45][#150270][2315ms][0.4100][0.4467]`
+[03:06:45][#150270][2315ms][0.4100][0.4467]
+```
+
 
 ## Previewing Your Training
 
@@ -286,7 +296,8 @@ If you wish to manually export yourself, first you need to stop training. You ca
 
 As soon as you do that, you'll see some shut down messages like this:
 
-`Code:
+```
+Code:
 /usr/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 1 leaked semaphores to clean up at shutdown
  len(cache))
 /usr/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 1 leaked semaphores to clean up at shutdown
@@ -294,7 +305,9 @@ As soon as you do that, you'll see some shut down messages like this:
 /usr/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 1 leaked semaphores to clean up at shutdown
  len(cache))
 /usr/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 1 leaked semaphores to clean up at shutdown
- len(cache))`
+ len(cache))
+```
+
 
 Then your button will have reset on the top left.
 
@@ -304,10 +317,13 @@ Next go back to the "Manage workspace" section and use the "Export to Drive" cel
 
 Once you click the play button again, it'll begin zipping your workspace, and uploading it automatically to your Google Drive. Once completed, you'll see a message similar to the following:
 
-`Code:
+```
+Code:
 Mounted at /content/drive
 /content
-Done!`
+Done!
+```
+
 
 You can now check your Google Drive folder and download the recently exported workspace.
 
