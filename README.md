@@ -67,4 +67,4 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 * Present exercise 4
 * Bots and abusive labour markets [slides](7-cse599b-18au.pdf), "Dirty jobs" [paper](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Motoyama.pdf), [slides](https://cseweb.ucsd.edu/~dok027/papers/Kim_TopicModeling_Freelance.pdf)
 * Neural language generation: [GPT-2](https://openai.com/blog/better-language-models/) (openly available), [Grover](https://arxiv.org/abs/1905.12616) (better than human) -- and a [GPT-2 blog post](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8).
-* Assignment 1 [pdf](assignment%201.pdf) Due end of September 6th ([DeepFaceLab tutorial](dfl.md))
+* Assignment 1 [pdf](assignment%201.pdf) Due end of September 6th ([DeepFaceLab tutorial](dfl))
