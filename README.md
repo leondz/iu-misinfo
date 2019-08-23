@@ -57,8 +57,14 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 
 ## Day 4: Micro-targeting
 * Present exercise 3
-* Micro targeting [slides](6-cse599b-18au.pdf)
+* Micro targeting [slides](7-cse599b-18au.pdf)
 * Panopticon: give yourself a [privacy check](https://panopticlick.eff.org)
 * Article: [Attacks on privacy on Facebook](https://arxiv.org/pdf/1803.10099.pdf)
 * [Web Tracking FAQ](http://trackingexcavator.cs.washington.edu/faq.html)
 * [Exercise 4](exercise%204.pdf): compare how you can be tracked
+
+## Day 5: Bots and fake content
+* Present exercise 4
+* Bots and abusive labour markets [slides](7-cse599b-18au.pdf), "Dirty jobs" [paper](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Motoyama.pdf), [slides](https://cseweb.ucsd.edu/~dok027/papers/Kim_TopicModeling_Freelance.pdf)
+* Neural language generation: [GPT-2](https://openai.com/blog/better-language-models/) (openly available), [Grover](https://arxiv.org/abs/1905.12616) (better than human)
+* Assignment 1 [pdf](assignment%201.pdf) Due end of September 6th
