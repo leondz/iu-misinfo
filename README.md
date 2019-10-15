@@ -65,6 +65,19 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 
 ## Day 5: Bots and fake content
 * Present exercise 4
-* Bots and abusive labour markets [slides](7-cse599b-18au.pdf), "Dirty jobs" [paper](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Motoyama.pdf), [slides](https://cseweb.ucsd.edu/~dok027/papers/Kim_TopicModeling_Freelance.pdf)
+* Bots and abusive labour markets [slides](8-cse599b-18au.pdf), "Dirty jobs" [paper](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Motoyama.pdf), [slides](https://cseweb.ucsd.edu/~dok027/papers/Kim_TopicModeling_Freelance.pdf)
 * Neural language generation: [GPT-2](https://openai.com/blog/better-language-models/) (openly available), [Grover](https://arxiv.org/abs/1905.12616) (better than human) -- and a [GPT-2 blog post](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8).
 * Assignment 1 [pdf](assignment%201.pdf) Due end of September 6th ([DeepFaceLab tutorial](dfl))
+
+# Week 2
+
+## Day 1
+* Go through assignment (thanks!)
+* Defences: [data mining](https://arxiv.org/pdf/1708.01967.pdf); [Fake News Challenge reflections](https://arxiv.org/pdf/1806.05180.pdf); [training your own fake news detection](https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c); [shades of truth and political fact checking](http://www.aclweb.org/anthology/D17-1317); [the FEVER dataset](https://arxiv.org/pdf/1803.05355.pdf) and [the FEVER challenge](https://www.fever.ai)
+
+## Day 2
+* [Peace and Conflict lab](https://pcnlab.asc.upenn.edu/)
+* Neuroscience perspectives: [Persuasion, influence and value](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122216-011821), [Testable and non-testable beliefs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124596),  [Asymmetic decision making](https://pubsonline.informs.org/doi/10.1287/mnsc.2015.2233)
+
+* Cognitive biases: [List of 67](https://www.neurosciencemarketing.com/blog/articles/cognitive-biases-cro.htm)
+* Perspectives - small exercise: [pdf](day2-perspectives.pdf)
