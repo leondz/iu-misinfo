@@ -83,9 +83,9 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 * Perspectives - small exercise: [pdf](day2-perspectives.pdf)
 
 ## Day 4
-* NLP intro [slides](1c - what is nlp - details.pdf)
-* Tokens and tokenisation [slides](1f - tokenization.pdf) 
-* Naive Bayes classification [slides](2c - ngrams exercise (movie reviews).pdf), sentiment [notebook](reviews.ipynb) 
+* NLP intro [slides](1c%20-%20what%20is%20nlp%20-%20details.pdf)
+* Tokens and tokenisation [slides](1f%20-%20tokenization.pdf) 
+* Naive Bayes classification [slides](2c%20-%20ngrams%20exercise%20(movie%20reviews).pdf), sentiment [notebook](reviews.ipynb) 
 
 ## Day 5
 * Sentiment with LSTM [blog + notebook](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
