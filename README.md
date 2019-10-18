@@ -82,5 +82,16 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 * Cognitive biases: [List of 67](https://www.neurosciencemarketing.com/blog/articles/cognitive-biases-cro.htm)
 * Perspectives - small exercise: [pdf](day2-perspectives.pdf)
 
+## Day 4
+* NLP intro [slides](1c - what is nlp - details.pdf)
+* Tokens and tokenisation [slides](1f - tokenization.pdf) 
+* Naive Bayes classification [slides](2c - ngrams exercise (movie reviews).pdf), sentiment [notebook](reviews.ipynb) 
+
+## Day 5
+* Sentiment with LSTM [blog + notebook](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+* Stance detection [slides](dast-slides.pdf) (first half)
+* Fake news challenge [link](http://www.fakenewschallenge.org/)
+* HMM for predicting truth [slides](dast-slides.pdf) (second half)
+
 ## Project 2
 * Due 18 November; 40% of the final mark. [Description](project2.pdf)
