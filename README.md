@@ -81,3 +81,6 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 
 * Cognitive biases: [List of 67](https://www.neurosciencemarketing.com/blog/articles/cognitive-biases-cro.htm)
 * Perspectives - small exercise: [pdf](day2-perspectives.pdf)
+
+## Project 2
+* Due 18 November. [Description](project2.pdf)
