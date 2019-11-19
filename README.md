@@ -78,7 +78,6 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 ## Day 2
 * [Peace and Conflict lab](https://pcnlab.asc.upenn.edu/)
 * Neuroscience perspectives: [Persuasion, influence and value](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122216-011821), [Testable and non-testable beliefs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124596),  [Asymmetic decision making](https://pubsonline.informs.org/doi/10.1287/mnsc.2015.2233)
-
 * Cognitive biases: [List of 67](https://www.neurosciencemarketing.com/blog/articles/cognitive-biases-cro.htm)
 * Perspectives - small exercise: [pdf](day2-perspectives.pdf)
 
