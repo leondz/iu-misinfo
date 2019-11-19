@@ -1,4 +1,4 @@
-# Automatic Fact Verification and Fake News Detection
+# Automatic Fact Verification and Misinformation Detection
 
 Great thanks to Franziska Roesner @ UW for her course CSE599B: Technology-enabled misinformation
 
@@ -16,13 +16,6 @@ This is a computer science course, expecting some knowledge of machine learning
 * Checking factual claims
 * How to identify suspicious accounts and networks
 
-## Schedule
-* Monday: 15.45-18.50, room 104
-* Tuesday: 15.45-18.50, room 312
-* Wednesday: 15.45-18.50, room 306
-* Thursday: 17.20-20-25, room 316
-* Friday: 12.10-15.40 (with half-hour break), room 103
-
 ## Assessment
 
 Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignment should be written as a research paper, and may be submitted to an academic venue.
@@ -33,6 +26,7 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 
 * [Intro slides](1+intro.pdf)
 * [War of the Worlds broadcast](https://www.youtube.com/watch?v=Xs0K4ApWl4g&feature=youtu.be&t=11m01s) ; [NYT manipulation quiz](https://www.nytimes.com/interactive/2018/09/04/technology/facebook-influence-campaigns-quiz.html)
+* [Why ‘fake news’ is a Flawed Term](https://gate-socmedia.group.shef.ac.uk/why-fake-news-is-a-flawed-term/)
 * Part 1 : introduction and examples [link](1-cse599b-18au.pdf)
 * Part 2 : describing the misinformation space [link](2-cse599b-18au.pdf)
 * [Exercise 1](exercise%201.pdf) : Personal experience study 
