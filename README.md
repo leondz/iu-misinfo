@@ -100,4 +100,4 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 
 ## Day 2
 * Continue "Fact Checking for Journalists" workshop [slides](https://centerforcooperativemedia.org/wp-content/uploads/sites/5/2014/10/NJ-Fact-Checking-Workshop-Slides.pdf)
-* Do the exercise
+* Discuss the initial article in [INFEKTION](https://en.wikipedia.org/wiki/Operation_Infektion); go through AMI and the 7 steps - How would you classify this? Who would you contact? What's the evidence? What are the questions?
