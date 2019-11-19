@@ -95,3 +95,16 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 
 ## Project 2
 * Due 18 November; 40% of the final mark. [Description](project2.pdf)
+
+# Week 3
+
+## Day 1
+* Fact Checking for Journalists [slides](https://centerforcooperativemedia.org/wp-content/uploads/sites/5/2014/10/NJ-Fact-Checking-Workshop-Slides.pdf)
+* Crowdsourcing: [for single values](https://www.ft.com/content/bfb7e6b8-d57b-11e1-af40-00144feabdc0), [for rare info](https://www.reddit.com/r/whatisthisthing/)
+* Fact checks on social media content [Not fake food](https://www.youtube.com/watch?v=vSBSzWmjXO0)
+* Advanced search - Power searching with Google [tutorial](http://www.powersearchingwithgoogle.com/) - learn site:, filetype: operators; how to use ""; each country and search engine is different
+* Finding dead/deleted files: [archive.org](http://web.archive.org/) [cachedview.com](https://cachedview.com/) - check out Uber's "Four Septembers" cherry-picking article and its disappearance
+
+## Day 2
+* Continue "Fact Checking for Journalists" workshop [slides](https://centerforcooperativemedia.org/wp-content/uploads/sites/5/2014/10/NJ-Fact-Checking-Workshop-Slides.pdf)
+* Do the exercise
