@@ -104,3 +104,8 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 
 ## Day 3
 * Fact extraction: [paper](http://eprints.whiterose.ac.uk/91378/1/Identification%20and%20verification.pdf), [colab](https://colab.research.google.com/drive/1owZ8tVXgpUnFSMScfNaZq0AsnSXrtuuf), [spaCy](https://spacy.io/), [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), [exercise](factextr-assn.pdf)
+
+## Day 4
+* Triple extraction presentations
+* Fact check: AMI+investigation for Pizzagate [news video](https://www.youtube.com/watch?v=XlxROGN_Nos), [news report](https://www.washingtonpost.com/local/pizzagate-from-rumor-to-hashtag-to-gunfire-in-dc/2016/12/06/4c7def50-bbd4-11e6-94ac-3d324840106c_story.html), [wikipedia](https://en.wikipedia.org/wiki/Pizzagate_conspiracy_theory)
+* Fact check: AMI+investigation for SHIELD headwear [promo video](https://www.youtube.com/watch?v=cp95GUaw2oY), [video review](https://www.youtube.com/watch?v=i5UkXEM4aNU)
