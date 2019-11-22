@@ -112,5 +112,5 @@ Three assignments, worth 30%, 30%, and 40% of the final grade. The final assignm
 
 ## Day 5
 * Recap
-* Project 3 details
+* Project 3 [details](assignment%203.pdf)
 * Course assessment
